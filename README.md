@@ -1,4 +1,5 @@
 # Language-Fluency-Model
+Generation of Language Fluency model
 The project aims to enhance language fluency through interactive practice sessions by login to the website fluentify by 
 providing email and password if the user forgots the password then he clicks on forgot  password and password gets recovered by answering a security question. 
 if the user not logged in then the user  first registers into the website.Users provide voice input to the website fluentify. User can also fetches text from a random sentence generator. Subsequently, users speak the retrieved text by clicking on a microphone button, triggering speech-to-text conversion.The system then analyzes the fluency of the user's speech .In addition to the fluency analysis feature, the project offers a user-friendly interface featuring a blog section and tongue twisters for practice. This provides users with engaging content to further improve their language skills. Through this platform, users can actively engage in speech practice and contributing to their overall language proficiency.
