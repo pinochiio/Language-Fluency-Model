@@ -7,12 +7,12 @@ from flask_mysqldb import MySQL, MySQLdb
 
 app = Flask(__name__)
 
-openai.api_key = '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'
+openai.api_key = ' '
 
-app.secret_key = "root_anshi"
+app.secret_key = ""
 app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'anshi'
-app.config['MYSQL_PASSWORD'] = 'root_anshi'
+app.config['MYSQL_USER'] = ''
+app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'project'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 
